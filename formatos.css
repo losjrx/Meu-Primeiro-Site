@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Caviar";
+    src: local(Caviar), url("/Fonte/CaviarDreams.ttf");
+}
+
+@font-face {
+    font-family: "Caviar";
+    src: local(Caviar), url("/Fonte/CaviarDreams_Bold.ttf");
+    font-weight: 600;
+}
+
+.logotipo{
+    height: 50px;
+    width: 50px;
+}
+
+.menu{
+    height: 720px;
+    background-color: #DCDCDC;
+    font-family: Caviar, SansSerif;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.rodape{
+    background-color: black;
+    height: 40px;
+    font-family: Caviar, SansSerif;
+    font-size: 20px;
+    color: white;
+}
