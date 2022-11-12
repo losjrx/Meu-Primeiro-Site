@@ -9,10 +9,23 @@
     font-weight: 600;
 }
 
+html, body{
+    height: 100%;
+}
+
 .area-menu{
     font-family: Caviar;
     font-weight: bold;
     font-size: 30px;
+}
+
+.main{
+    height: 80%;
+}
+
+.align-items-center{
+    display: flex;
+    align-items: center;
 }
 
 footer{
