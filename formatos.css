@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Caviar";
-    src: local(Caviar), url("/Fonte/CaviarDreams.ttf");
+    src: local(Caviar), url("/Fonte/CaviarDreams.ttf")
 }
 
 @font-face {
@@ -9,29 +9,10 @@
     font-weight: 600;
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-}
-
-.logotipo{
-    margin-top: 200px;
-}
-
-.logo2 {
-    margin-left: 50px;
-    width: 200px;
-    height: 100px;
-    object-fit: fill
-}
-
-.menu{
-    height: 720px;
-    background-color: #DCDCDC;
-    font-family: Caviar, SansSerif;
-    font-weight: 600;
-    font-size: 35px;
+.area-menu{
+    font-family: Caviar;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 footer{
