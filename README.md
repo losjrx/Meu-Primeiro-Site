@@ -15,6 +15,8 @@ utilização apenas de HTML e CSS.
 + Fonte de dados estática, no próprio HTML;
 + Elementos básicos de formatação com o framework Bootstrap.
 
+> **Nota:** Foi utilizado script **JQuery** para a funcionalidade do menu sanduíche.
+
 ## Páginas
 
 *Home*: página com a logo, menu personalizado e responsivo e rodapé padrão;<br>
