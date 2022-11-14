@@ -28,6 +28,10 @@ html, body{
     align-items: center;
 }
 
+.logo{
+    width: 400px;
+}
+
 footer{
     background-color: black;
     height: 40px;
