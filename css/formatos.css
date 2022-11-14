@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "Caviar";
+    src: local(Caviar), url("Fonte/CaviarDreams.ttf")
+}
+
+@font-face {
+    font-family: "Caviar";
+    src: local(Caviar), url("Fonte/CaviarDreams_Bold.ttf");
+    font-weight: 600;
+}
+
+html, body{
+    height: 100%;
+}
+
+.area-menu{
+    font-family: Caviar;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.main{
+    height: 80%;
+}
+
+.align-items-center{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 300px;
+}
+
+#titulo-cadastro {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.formulario {
+    margin-top: 20px;
+    padding: 60px;
+    font-family: Caviar;
+    font-size: 20px;
+    background-color: lightgray;
+}
+.cadastrar{
+    margin-top:10px;
+}
+
+footer{
+    background-color: black;
+    height: 40px;
+    font-family: Caviar, SansSerif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
